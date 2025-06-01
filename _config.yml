@@ -14,9 +14,9 @@ timezone: Europe/Kyiv
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My Tech Blog # the main title
+title: My Tech Notes # the main title
 
-tagline: junior tech blog # it will display as the sub-title
+tagline: Code, Thoughts, and My Two Cents # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Tech blog about programming ang other geek stuff

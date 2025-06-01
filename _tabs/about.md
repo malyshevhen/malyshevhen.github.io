@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hi, I'm Evhen 👋
+# Hi, I'm Evhen 🇺🇦
 
 I'm a software developer based in Kyiv, passionate about building robust applications and exploring new technologies. I specialize in backend development with Java and Go, and I enjoy working on IoT platforms and distributed systems.
 
