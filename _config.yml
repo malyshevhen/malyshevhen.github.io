@@ -29,7 +29,7 @@ github:
   username: malyshevhen # change to your github username
 
 twitter:
-  username:  # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
@@ -127,9 +127,6 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
-
-plugins:
-  - jekyll-coffeescript
 
 # ------------ The following options are not recommended to be modified ------------------
 
